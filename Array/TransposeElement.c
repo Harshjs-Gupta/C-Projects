@@ -5,7 +5,7 @@
 //    int matrix[3][4];
 //    int trans[3][4];
 
-//    printf("Enter Matrix Element \n");
+//    printf("Enter Matrix Elements: \n");
 //    for(int i=0;i<3;i++)
 //    {
 //    	for(int j=0;j<4;j++)
