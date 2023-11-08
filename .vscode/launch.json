@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/CGithub/C-Projects/ControleStatement",
-      "program": "d:/CGithub/C-Projects/ControleStatement/build/Debug/outDebug",
+      "cwd": "d:/CGithub/C-Projects/Loop",
+      "program": "d:/CGithub/C-Projects/Loop/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
