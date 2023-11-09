@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/CGithub/C-Projects/Loop",
-      "program": "d:/CGithub/C-Projects/Loop/build/Debug/outDebug",
+      "cwd": "d:/CGithub/C-Projects/PatternPrinting",
+      "program": "d:/CGithub/C-Projects/PatternPrinting/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
